@@ -1,1 +1,1 @@
-# Spelling_Checker
+# Spelling_Checker_Project
